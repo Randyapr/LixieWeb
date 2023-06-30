@@ -1,0 +1,103 @@
+
+body {
+     align-items: center;
+     background-color: black;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+   
+   .container {
+       color: white;
+       max-width: 372px;
+       padding: 27px 24px 70px 23px;
+   
+       background-color: #1E1E1E;;
+   
+   }
+   
+   .container hr {
+       border-color: #820F0F;
+   }
+   
+   
+   .input-form {
+       padding: 20px 0px;
+   }
+   
+   .input-form input {
+       font-size: medium;
+       margin: 10px 0px;
+       padding-top: 20px;
+       width: 350px;
+       outline: none;
+       background: transparent;
+       color: white;
+   
+       border: 1px solid #820F0F;
+   }
+   
+   form .close {
+       text-align: right;
+   }
+   
+   form .close button{
+       text-align: center;
+       width: 67px;
+       height: 21px;
+       border-radius: 10px;
+       border-style: none;
+   
+       color: #F5F0EE;
+       background-color: #820F0F;
+   }
+   
+   form .submit button{
+       margin: 46px 24px 40px 23px;
+       width: 325px;
+       height: 44px;
+       outline: none;
+       border: none;
+       font-size: medium;
+       font-weight: bold;
+       color: #F5F0EE;
+   
+       background-color: #820F0F;
+   }
+   
+   .container .forgot {
+       text-align: center;
+       padding-bottom: 42px;
+   
+   }
+   .container .forgot a {
+       color: #820F0F;
+       text-decoration: none;
+   }
+   
+   .container .create {
+       text-align: center;
+   }
+   
+   .container .create .create-account button{
+       margin: 10px;
+       width: 325px;
+       height: 44px;
+       font-size: medium;
+       font-weight: bold;
+   
+       color: #820F0F;
+   }
+   
+   .container .create .sign-google {
+       padding-top: 57px;
+   }
+   
+   .container .create .sign-google button {
+       text-align: justify;
+       margin: 10px;
+       width: 207px;
+       height: 30px;
+       border-radius: 10px;
+   
+       border-style: none;
+   
+   }

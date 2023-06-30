@@ -1,0 +1,218 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.container .lixie-header {
+    background-color: #1E1E1E;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container .lixie-header .header-left {
+    padding: 10px 0px 0px 20px;
+}
+
+.container .lixie-header .header-left a{
+    text-decoration: none;
+    padding: 20px;
+
+    color: #F5F0EE;
+}
+
+.container .lixie-header .header-right {
+    padding: 10px 20px 0px 0px;
+}
+
+.container .lixie-header .header-right a{
+    text-decoration: none;
+    padding: 10px;
+
+    color: #820F0F;
+}
+
+.container-1 {
+    margin: 40px 105px 186px 116px;
+
+    color: #F5F0EE;
+}
+
+.container-1 .flow {
+    display: flex;
+}
+
+.container-1 .flow .red-flow a{
+    text-decoration: none;
+    padding-right: 5px;
+    color: #820F0F;
+}
+.container-1 .flow .white-flow a{
+    text-decoration: none;
+    padding-left: 5px;
+    color: #F5F0EE;
+}
+.container-1 .contact {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.container-1 .contact input{
+    width: 440px;
+    height: 50px;
+    margin-top: 10px;
+    outline: none;
+    padding-left: 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+    color: #F5F0EE;
+
+    background-color: #2c2b2a;
+}
+
+.container-1 .deliver-method {
+    padding-bottom: 20px;
+}
+
+.container-1 .deliver-method .method-choice {
+    width: 440px;
+    border-radius: 10px;
+    color: #F5F0EE;
+    padding: 10px;
+    font-weight: bold;
+
+    background-color: #2c2b2a;
+}
+
+.container-1 .deliver-method .method-choice hr {
+    border-color: #820F0F;
+}
+
+
+.container-1 .address .form-input {
+    margin-bottom: 10px;
+}
+
+.container-1 .address .form-input input {
+    width: 440px;
+    height: 50px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    padding-left: 10px;
+
+    color: #F5F0EE;
+    background-color: #2c2b2a;
+}
+
+.container-1 .address .form-input .form-input-flex {
+    display: flex;
+}
+
+.container-1 .address .form-input .form-input-flex input {
+    width: 210px;
+    height: 50px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    margin-right: 10px;
+
+    color: #F5F0EE;
+    background-color: #2c2b2a;
+}
+
+.container-1 .address .nav-button {
+    margin-top: 20px;
+}
+
+.container-1 .address .nav-button a {
+    text-decoration: none;
+    color: #F5F0EE;
+}
+
+.container-1 .address .nav-button button {
+    width: 128px;
+    height: 43px;
+    margin-left: 185px;
+    border-radius: 10px;
+    font-weight: bold;
+    outline: none;
+
+    color: #F5F0EE;
+    background-color: #820F0F;
+}
+.main-container .nav-button1 {
+    margin-top: 20px;
+  }
+  
+ .main-container .nav-button1 a {
+    text-decoration: none;
+  }
+  
+ .main-container .main-container .nav-button1 button {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+  
+    color: #F5F0EE;
+    background-color: #820F0F;
+    border: 2px solid #820F0F;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  }
+  
+ .main-container .nav-button1 button:hover {
+    background-color: #F5F0EE;
+    color: #820F0F;
+    border-color: #820F0F;
+  }
+.main-container .wall {
+    border-left: 3px #820F0F solid;
+    width: 0px;
+    margin-left: 42px;
+    margin-bottom: 10px;
+}
+
+.container-2 {
+    margin: 80px 0px 0px 152px;
+
+    color: #F5F0EE;
+}
+.container-2 .product {
+    margin-bottom: 50px;
+}
+.container-2 .product img{
+    background-color: #2c2b2a;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.container-2 .discount-price input {
+    width: 252px;
+    height: 39px;
+    outline: none;
+    border: none;
+
+    color: #F5F0EE;
+    background-color: #2c2b2a;
+}
+
+.container-2 .discount-price button {
+    width: 81px;
+    height: 39px;
+    font-weight: bold;
+
+    color: #F5F0EE;
+    background-color: #820F0F;
+}
+
+.container-2 .detail-price{
+    margin-top: 30px;
+}
+
+.main-container {
+    display: flex;
+}

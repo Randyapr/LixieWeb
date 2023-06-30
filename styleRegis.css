@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.container .lixie-header {
+    background-color: #1E1E1E;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container .lixie-header .header-left {
+    padding: 10px 0px 0px 20px;
+}
+
+.container .lixie-header .header-left a{
+    text-decoration: none;
+    padding: 20px;
+
+    color: #F5F0EE;
+}
+
+.container .lixie-header .header-right {
+    padding: 10px 20px 0px 0px;
+}
+
+.container .lixie-header .header-right a{
+    text-decoration: none;
+    padding: 10px;
+
+    color: #820F0F;
+}
+
+.container-1 {
+    position: absolute;
+    margin: 62px 38px 161px 39px;
+    color: #F5F0EE;
+}
+
+.container-1 .head-create {
+    background-color: #1E1E1E;
+    padding: 80px 509px 80px 509px;
+    margin-right: 38px;
+}
+
+.container-1 .input-form {
+    margin: 60px 163px;
+}
+
+.container-1 .input-form .input-text {
+    padding-bottom: 26px;
+}
+
+.container-1 .input-form .input-text input {
+    width: 964px;
+    height: 30px;
+    font-size: 16px;
+    outline: none;
+}
+
+.container-1 .head-create h3 {
+    text-align: center;
+}
+
+.container-1 .input-form .agree-box {
+    padding: 66px 0px 25px 0px;
+
+    color: #820F0F;
+}
+
+.container-1 .input-form .agree-box checkbox {
+    padding-right: 10px;
+}
+
+.container-1 .input-form button {
+    width: 206px;
+    height: 44px;
+    font-weight: bold;
+    color: #820F0F;
+    background-color: #F5F0EE;
+    outline: none;
+}

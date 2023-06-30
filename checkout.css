@@ -1,0 +1,162 @@
+body {
+     margin: 0;
+     background-color: black;
+ }
+ 
+ .container .lixie-header {
+     background-color: #1E1E1E;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ .container .lixie-header .header-left {
+     padding: 10px 0px 0px 20px;
+ }
+ 
+ .container .lixie-header .header-left a{
+     text-decoration: none;
+     padding: 20px;
+ 
+     color: #F5F0EE;
+ }
+ 
+ .container .lixie-header .header-right {
+     padding: 10px 20px 0px 0px;
+ }
+ 
+ .container .lixie-header .header-right a{
+     text-decoration: none;
+     padding: 10px;
+ 
+     color: #820F0F;
+ }
+ 
+ .container-1 .product{
+     display: flex;
+ 
+     color: #F5F0EE;
+ }
+ 
+ .container-1 .product .product-shirt-1 {
+     margin-top: 254px;
+ }
+ 
+ .container-1 .product .product-price {
+     margin: 79px 86px 0px 58px;
+ }
+ 
+ .container-1 .product .product-price .size{
+     margin: 13px 0px 29px 0px;
+ }
+ 
+ .container-1 .product .product-price .size label{
+     margin-bottom: 20px;
+ }
+ 
+ .container-1 .product .product-price .size button {
+     width: 33px;
+     height: 21px;
+     border-radius: 20px;
+     outline: none;
+ 
+     background-color: #820F0F;
+ }
+ 
+ .container-1 .product .quantity {
+     margin: 0;
+ }
+ 
+ .container-1 .product .checkout-product input {
+     width: 77px;
+     height: 43px;
+     margin-top: 20px;
+     outline: none;
+     color: #F5F0EE;
+     border-color: #820F0F;
+     background-color: transparent;
+ }
+ 
+ .container-1 .product .checkout-product button {
+     width: 178px;
+     height: 50px;
+     margin-left: 11px;
+     margin-right: 13px;
+ 
+     color: #F5F0EE;
+     background-color: #820F0F;
+ }
+ 
+ .container-1 .product .checkout-product img {
+     padding-left: 10px;
+ }
+ 
+ .line-break hr{
+     margin: 96px 42px 36px 43px;
+ 
+     border-color: #820F0F;
+ }
+ 
+ .container-2 {
+     margin: 0px 42px 104px 43px;
+ 
+     color: #F5F0EE;
+ }
+ 
+ .container-2 .description h3 {
+     text-align: center;
+ }
+ 
+ .container-2 .description p {
+     margin: 36px 221px 46px 220px;
+     text-align: justify;
+ }
+ 
+ .container-3 {
+     width: 100%;
+     margin-top: 207px;
+     padding-bottom: 300px;
+     color: #F5F0EE;
+     background-color: #1e1e1e;
+ }
+ 
+ .container-3 .foot-lixie {
+     display: flex;
+     margin-left: 30px;
+ }
+ 
+ .container-3 .foot-lixie .section {
+     padding-left: 76px;
+ }
+ 
+ .container-3 .foot-lixie .section a {
+     text-decoration: none;
+     display: grid;
+     margin-bottom: 20px;
+ 
+ 
+     color: #F5F0EE;
+ }
+ 
+ .container-3 .foot-lixie .section-sign-up {
+     margin: 0px 77px 0px 245px;
+ }
+ 
+ .container-3 .foot-lixie .section-sign-up input {
+     width: 312px;
+     height: 36px;
+     background-color: transparent;
+     font-size: medium;
+ 
+     border-color: #820F0F;
+     color: #F5F0EE;
+ }
+ 
+ .container-3 .foot-lixie .section-sign-up button {
+     width: 80px;
+     height: 36px;
+     margin-left: 5px;
+ 
+ 
+     background-color: #820F0F;
+     color: #F5F0EE;
+ }
